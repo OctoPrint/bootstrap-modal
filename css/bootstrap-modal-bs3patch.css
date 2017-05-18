@@ -6,6 +6,10 @@
  * http://www.apache.org/licenses/LICENSE-2.0
  *
  * Boostrap 3 patch for for bootstrap-modal. Include BEFORE bootstrap-modal.css!
+ *
+ * Patched version from https://github.com/OctoPrint/bootstrap-modal
+ *
+ *   - minHeight function added
  */
 
 body.modal-open, 

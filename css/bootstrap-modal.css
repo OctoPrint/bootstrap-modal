@@ -5,6 +5,9 @@
  * Licensed under the Apache License v2.0
  * http://www.apache.org/licenses/LICENSE-2.0
  *
+ * Patched version from https://github.com/OctoPrint/bootstrap-modal
+ *
+ *   - minHeight function added
  */
 
 .modal-open {
